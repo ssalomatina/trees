@@ -1,6 +1,6 @@
 @font-face {
   font-family: Karsten;
-  src: url("../public/Karsten Thin.otf");
+  src: url("/Karsten Thin.otf");
 }
 
 :root {
