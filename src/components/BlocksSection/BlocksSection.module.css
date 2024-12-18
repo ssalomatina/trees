@@ -1,0 +1,33 @@
+.blocks{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 8px;
+    background: #288f2d;
+    flex-wrap: wrap;
+    padding: 96px 0 64px 0;
+}
+
+.blockAboutTree{
+    width: 25%;
+    background: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.blockAboutTree_picture img{
+    width: 75px;
+    border-radius: 50%;
+    border: 3px #288f2d solid;
+    margin-top: -50%;
+    background: #fff;
+    padding: 8px;
+}
+
+.blockAboutTree_title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 16px 0;
+}
